@@ -77,7 +77,7 @@ The Power BI dashboard includes the following sections:
 
 ## 📸 Dashboard Screenshot
 
-
+![Dashboard](
 
 ## 💡 Key Insights
 
