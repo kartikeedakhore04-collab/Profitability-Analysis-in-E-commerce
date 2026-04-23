@@ -11,6 +11,14 @@ This project explores an e-commerce dataset from Myntra, using Excel for data pr
 
 ---
 
+## 🎯 Objectives
+- Analyze overall revenue and sales performance
+- Identify top-performing brands and product categories
+- Understand pricing and discount trends
+- Study the impact of ratings on product performance
+
+---
+
 ## 🧹 Data Cleaning & Preparation (Excel)
 
 The raw dataset was cleaned and transformed in Excel before loading into Power BI:
@@ -77,19 +85,25 @@ The Power BI dashboard includes the following sections:
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard](
+![Dashboard](Dashboard.png)
 
 ## 💡 Key Insights
 
 - **JAGUAR** is the top revenue-generating brand on Myntra
-- **Perfume & kurta-sets** generate the highest category revenue
+- **Spray & Analouge Watches** generate the highest category revenue
 - Products in the **₹1K–₹2K** and **₹2K–₹5K** range have the highest volume
 - Average discount across all products is **~44%** — heavy discounting is common
-- **Jewellery categories** (mangalsutra, anklet, bangle) receive the highest discount percentages
+- **Roadster** brand receive the highest discount percentages
 - Average customer rating across all products is a strong **4.16**
 
 ---
 
+## 📌 Conclusion
+
+- The analysis provides valuable insights into product performance, pricing strategies, and customer behavior. These findings can help businesses optimize their marketing strategies and improve overall profitability.
+
+  ---
+  
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** — Data cleaning, filtering, derived column creation
@@ -97,3 +111,7 @@ The Power BI dashboard includes the following sections:
 
 ---
 
+## 📎 Files in Repository
+ → Cleaned dataset
+ → Power BI dashboard file
+README.md → Project documentation
