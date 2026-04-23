@@ -112,6 +112,6 @@ The Power BI dashboard includes the following sections:
 ---
 
 ## 📎 Files in Repository
-- 'Myntra Cleaned Dataset(1).xlsx' → Cleaned dataset
-- 'Dashboard.png' → Power BI dashboard file
-- 'README.md' → Project documentation
+- [Myntra Cleaned Dataset(1).xlsx.](./Myntra%20Cleaned%20Dataset%20(1).xlsx) → Cleaned dataset
+- [Dashboard.png](./Dashboard.png) → Power BI dashboard file
+- [README.md](./README.md) → Project documentation
